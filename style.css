@@ -1,0 +1,31 @@
+h1{
+    color: brown;
+}
+
+h3{
+    background-color: rgba(246, 255, 0, 0.23);
+}
+
+body{
+    background-color: #F6F6F6;
+}
+
+.customTitle{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.customText{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: Italic;
+}
+
+
+h3:hover{
+    color: chocolate;
+    background-color: gold;
+}
